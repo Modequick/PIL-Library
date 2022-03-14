@@ -12,7 +12,7 @@ for i in isi :
         foto.rotate(-90).save(r"C:\Users\kevin\OneDrive\Pictures\Matthew\hasil\ " + i , "JPEG")
         print(i)
     
-
+print("Hello World")
 
 #pubesar= foto.rotate(0).resize((1920,1080))
 #os.chdir(r"C:\Users\kevin\OneDrive\Pictures\Matthew\trial123")
